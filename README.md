@@ -58,26 +58,22 @@ Go back to the survey questions page because I assume I can add survey variables
 
 ![Fig 11](discovery11.png)
 
+Already conclusions can be drawn (unhappy people have fewer social ties, rely on religion for support?), but comparing survey questions individually is annoying. I see “Maps” tab at the top of the screen.
+
 ### Figure 12
 
 ![Fig 12](discovery12.png)
 
-Already conclusions can be drawn (unhappy people have fewer social ties, rely on religion for support?), but comparing survey questions individually is annoying. I see “Maps” tab at the top of the screen.
+Map allows choosing data based on region using icons. Color values are presented in gradient scale.
 
 ### Figure 13
 
 ![Fig 13](discovery13.png)
 
-Map allows choosing data based on region using icons. Color values are presented in gradient scale.
+Fixed map parameters but couldn’t understand white countries- if meant to be neutral, what does “Medium” on the scale signify? 
 
 ### Figure 14
 
 ![Fig 14](discovery14.png)
-
-Fixed map parameters but couldn’t understand white countries- if meant to be neutral, what does “Medium” on the scale signify? 
-
-### Figure 15
-
-![Fig 15](discovery15.png)
 
 With Time series can see how the percentages of responses change over time, but no way to break down by happiness level. From my discovery the tabbed response layout was the best way to answer my question, which is disappointing. 
