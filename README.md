@@ -2,7 +2,7 @@
 
 ## Question: How does the feeling of happiness in European countries impact the perceived importance of life values like family and religion?
 
-### Figure 1
+### Figure 1 
 
 ![Fig 1](discovery1.png)
 
