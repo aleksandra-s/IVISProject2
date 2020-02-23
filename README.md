@@ -2,6 +2,8 @@
 
 ### Question: How does the personal feeling of happiness in European countries impact the perceived importance of certain life values, such as family, friends, religion, etc.?
 
+![Fig 1](discovery1.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
