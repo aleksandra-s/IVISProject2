@@ -1,6 +1,6 @@
 ## Discovery Process of the [World Values Survey's Online Analysis Tools](http://www.worldvaluessurvey.org/WVSOnline.jsp)
 
-### Question: How does the personal feeling of happiness in European countries impact the perceived importance of certain life values, such as family, friends, religion, etc.?
+### Question: How does the feeling of happiness in European countries impact the perceived importance of life values like family and religion?
 
 ### Figure 1
 
