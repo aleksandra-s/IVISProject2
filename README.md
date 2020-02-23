@@ -18,7 +18,7 @@ Countries could be ordered in a way that conveys information about their geograp
 
 I want to compare V4 through V9 with V10;  expected to be able to select multiple variables to show.
 
-### Figure 4
+### Figure 4 
 
 ![Fig 4](discovery4.png)
 
