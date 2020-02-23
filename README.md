@@ -32,6 +32,8 @@ A majority of total respondents ranked family as “Very important” (89.6%). I
 
 ![Fig 6](discovery6.png)
 
+The tool now shows what those that answered that they are “Very happy” with their lives responded for importance of family. Using the “Choose a table” drop-down list, I can also choose the level of happiness. As happiness decreases, so does the importance of family. 
+
 ### Figure 7
 
 ![Fig 7](discovery7.png)
@@ -40,9 +42,13 @@ A majority of total respondents ranked family as “Very important” (89.6%). I
 
 ![Fig 8](discovery8.png)
 
+Bar chart view: Countries color coded; hover to reveal details. Gets stuck on one level of happiness without updating to the other values; makes it virtually unusable.
+
 ### Figure 9
 
 ![Fig 9](discovery9.png)
+
+Go back to the survey questions page because I assume I can add survey variables to examine, but cannot find that option.
 
 ### Figure 10
 
@@ -56,14 +62,22 @@ A majority of total respondents ranked family as “Very important” (89.6%). I
 
 ![Fig 12](discovery12.png)
 
+Already conclusions can be drawn (unhappy people have fewer social ties, rely on religion for support?), but comparing survey questions individually is annoying. I see “Maps” tab at the top of the screen.
+
 ### Figure 13
 
 ![Fig 13](discovery13.png)
+
+Map allows choosing data based on region using icons. Color values are presented in gradient scale.
 
 ### Figure 14
 
 ![Fig 14](discovery14.png)
 
+Fixed map parameters but couldn’t understand white countries- if meant to be neutral, what does “Medium” on the scale signify? 
+
 ### Figure 15
 
 ![Fig 15](discovery15.png)
+
+With Time series can see how the percentages of responses change over time, but no way to break down by happiness level. From my discovery the tabbed response layout was the best way to answer my question, which is disappointing. 
