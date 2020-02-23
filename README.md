@@ -1,4 +1,4 @@
-## Discovery Process of the [World Values Survey's Online Analysis Tools](http://www.worldvaluessurvey.org/WVSOnline.jsp)
+## 1. Discovery Process of the [World Values Survey's Online Analysis Tools](http://www.worldvaluessurvey.org/WVSOnline.jsp)
 
 ### Question: How does the feeling of happiness in European countries impact the perceived importance of life values like family and religion?
 
@@ -77,3 +77,6 @@ Fixed map parameters but couldn’t understand white countries- if meant to be n
 ![Fig 14](discovery14.png)
 
 With Time series can see how the percentages of responses change over time, but no way to break down by happiness level. From my discovery the tabbed response layout was the best way to answer my question, which is disappointing. 
+
+## 2. Improving Online Analysis Tools
+
