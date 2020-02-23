@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Discovery Process of World Values Survey Online Analysis Tools
 
-### Question: How does the feeling of happiness in European countries impact the perceived importance of certain life values, such as family, friends, religion, etc.?
+### Question: How does the personal feeling of happiness in European countries impact the perceived importance of certain life values, such as family, friends, religion, etc.?
 
 ### Markdown
 
