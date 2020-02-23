@@ -76,7 +76,7 @@ Fixed map parameters but couldn’t understand white countries- if meant to be n
 
 ![Fig 14](discovery14.png)
 
-With Time series can see how the percentages of responses change over time, but no way to break down by happiness level. From my discovery the tabbed response layout was the best way to answer my question, which is disappointing. 
+Time series shows how the percent distribution of responses change over time, but no way to break down by happiness level. From my discovery the tabbed response layout is the best way to answer my question, which is disappointing. 
 
 # 2. Improving Online Analysis Tools
 
