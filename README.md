@@ -3,6 +3,19 @@
 ### Question: How does the personal feeling of happiness in European countries impact the perceived importance of certain life values, such as family, friends, religion, etc.?
 
 ![Fig 1](discovery1.png)
+Fig 1
+
+![Fig 2](discovery2.png)
+Fig 2
+Countries could be ordered in a way that conveys information about their geographic location/relation. 
+
+![Fig 3](discovery3.png)
+Fig 3
+I want to compare V4 through V9 with V10;  expected to be able to select multiple variables to show.
+
+![Fig 4](discovery4.png)
+Fig 4
+I can see that a majority of total respondents ranked family as “Very important” (89.6%). I’m interested in comparing these survey responses to perceived happiness. 
 
 ### Markdown
 
