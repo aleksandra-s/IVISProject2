@@ -24,36 +24,46 @@ I want to compare V4 through V9 with V10;  expected to be able to select multipl
 
 A majority of total respondents ranked family as “Very important” (89.6%). I’m interested in comparing these survey responses to perceived happiness. 
 
-### Markdown
+### Figure 5
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Fig 5](discovery5.png)
 
-```markdown
-Syntax highlighted code block
+### Figure 6
 
-# Header 1
-## Header 2
-### Header 3
+![Fig 6](discovery6.png)
 
-- Bulleted
-- List
+### Figure 7
 
-1. Numbered
-2. List
+![Fig 7](discovery7.png)
 
-**Bold** and _Italic_ and `Code` text
+### Figure 8
 
-[Link](url) and ![Image](src)
-```
+![Fig 8](discovery8.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Figure 9
 
-Hello 
+![Fig 9](discovery9.png)
 
-### Jekyll Themes
+### Figure 10
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aleksandra-s/IVISProject2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Fig 10](discovery10.png)
 
-### Support or Contact
+### Figure 11
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Fig 11](discovery11.png)
+
+### Figure 12
+
+![Fig 12](discovery12.png)
+
+### Figure 13
+
+![Fig 13](discovery13.png)
+
+### Figure 14
+
+![Fig 14](discovery14.png)
+
+### Figure 15
+
+![Fig 15](discovery15.png)
