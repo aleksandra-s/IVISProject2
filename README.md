@@ -22,7 +22,7 @@ I want to compare V4 through V9 with V10;  expected to be able to select multipl
 
 ![Fig 4](discovery4.png)
 
-I can see that a majority of total respondents ranked family as “Very important” (89.6%). I’m interested in comparing these survey responses to perceived happiness. 
+A majority of total respondents ranked family as “Very important” (89.6%). I’m interested in comparing these survey responses to perceived happiness. 
 
 ### Markdown
 
